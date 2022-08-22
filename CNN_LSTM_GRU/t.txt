@@ -1,3 +1,0 @@
-
-Project Tasks
-TASK: Read in the data set "Frozen_Dessert_Production.csv" from the Data folder. Figure out how to set the date to a datetime index columns
